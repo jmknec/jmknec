@@ -2,13 +2,25 @@
     <img src="pictures/desk.jpg">
 </p>
 
-<h1 align="center">Hi 👋, I'm Jenna</h1>
-- 😄 Pronouns: she/her
-<h3 align="center">A passionate and hard-working full stack software engineer from Hamilton, ON, Canada</h3>
+<h1 align="center">I'm Jenna (she/her)</h1>
 
-- 🔭 I’m currently working on the next iteration of the capstone project from my bootcamp: **Reactive Minds**
-- 🌱 I'm currently learning everything I can! Never stop never stopping
-- 👯 I’m looking to collaborate with like-mended individuals
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=EA03B1&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Comp+Sci+Barbie" alt="Typing SVG" /></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<h2 align="center">About Me</h2>
+<p align="center">I used to be a nurse before I became interested in tech and decided to jump into a brand new career. Now I'm a software engineer with a bright, shiny diploma to prove it! Recently graduated from BrainStation's SE bootcamp (and member of the winning team in the 24-hour industry project / hacakathon), I'm eager to keep building and learning everything I can.</p>
+<p align="center">Right now I'm working on the next iteration of Reactive Minds, a platform for parents to learn about emotion regulation and help their kids learn to self-regulate more effectively. The first iteration was my capstone project for the bootcamp, and it didn't quite get where I envisioned before demo day so it isn't hosted yet but I plan to get it up very soon!</p>
+
+<h3 align="center">Git Stats</h3>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jmknec&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&background=45%2CA41779%2CD8709A&stroke=EFEFEF&ring=8D1340&fire=8D1340&currStreakNum=EFEFEF&sideNums=EFEFEF&currStreakLabel=EFEFEF&sideLabels=EFEFEF&dates=8D1340" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jmknec&theme=moltack&hide_border=true&bg_color=45%2CD8709A%2CA41779&text_color=FEFEFE&show_icons=true&icon_color=8D1340"/>
+</p>
+
+
+
+
+  
